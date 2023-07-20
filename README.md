@@ -1,7 +1,7 @@
 # Cow-Bending
 A Cow-Bending game created for GMTK Jam 2023. 
 
-Here's a browser build for the game over at itch.io
+Here's a browser build for the game over at itch.io:
 
 https://drunks.itch.io/cow-bending
 
